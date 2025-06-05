@@ -23,14 +23,24 @@ Sprint | Previsão | Status| Histórico|
 | Kauan Lucas |
 | Maria Eduarda |
 
-**ORIENTADOR:** PROFESSOR MESTRE CARLOS EDUARDO BASTOS 
+**ORIENTADOR:** PROFESSOR MESTRE CARLOS EDUARDO BASTOS  
 **COORIENTADOR:** PROFESSOR ESPECIALISTA RUBENS BARRETO DA SILVA
 
-# Objetivo do Projeto
+# Objetivo do Projeto sprint, foi realizada
+
+Foi realizada a privatização do serviço de telefonia de um determinado país. 
+As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões. 
+Cada empresa de telefonia móvel será responsável pela instalação da infraestrutura de serviços e comercialização de celulares.
 
 # Funcionalidades e Demonstrações das Sprints
 
+[Sprint 1](https://github.com/zorpinha/API-1SEM-020225/blob/7a8f84994979a486969e3d774c275566fa8894b5/Sprint/Sprint%201) Foi uma das etapas mais importantes que é de pesquisa sobre o mercado, clicando sobre o "sprint 1" está explicado cada etapa.  
+[Sprint 2](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) Recebemos novos dados onde tivemos a oportunidade de refinar e trabalhar com esses dados em um cenário hipotético perfeito.  
+[Sprint 3](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) Após termos todos esses dados, foi solicitado que colocassemos esses dados no Power BI, para isso foi necessário que transformassemos todos os dados em uma forma de saída e entrada para que o fosse trabalho no Power BI.  
+
 # Tecnologias Utilizadas
+
+Link to the sample section: [Link Text](#sample-section).
 
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
