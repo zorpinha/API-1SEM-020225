@@ -26,13 +26,14 @@ Sprint | Previsão | Status| Histórico|
 **ORIENTADOR:** PROFESSOR MESTRE CARLOS EDUARDO BASTOS  
 **COORIENTADOR:** PROFESSOR ESPECIALISTA RUBENS BARRETO DA SILVA
 
-# Objetivo do Projeto sprint, foi realizada
+# Objetivo do Projeto sprint
 
 Foi realizada a privatização do serviço de telefonia de um determinado país. 
 As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões. 
 Cada empresa de telefonia móvel será responsável pela instalação da infraestrutura de serviços e comercialização de celulares.
 
 # Funcionalidades e Demonstrações das Sprints
+Para melhor visualização, separamos cada sprint desse projeto em páginas diferentes, assim explicando cada processo detalhadamente.
 
 [Sprint 1](https://github.com/zorpinha/API-1SEM-020225/blob/7a8f84994979a486969e3d774c275566fa8894b5/Sprint/Sprint%201) Foi uma das etapas mais importantes que é de pesquisa sobre o mercado, clicando sobre o "sprint 1" está explicado cada etapa.  
 [Sprint 2](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) Recebemos novos dados onde tivemos a oportunidade de refinar e trabalhar com esses dados em um cenário hipotético perfeito.  
@@ -40,7 +41,16 @@ Cada empresa de telefonia móvel será responsável pela instalação da infraes
 
 # Tecnologias Utilizadas
 
-Link to the sample section: [Link Text](#sample-section).
+Inicialmente foi pedido um SWOT para ajudar na analise da empresa, em seguida realizamos um Canvas para verificar a estrutura da empresa e descobrir pontos a melhorar, assim foi realizado uma previsão de visitantes para que a empresa veja se valhe ou não a pena investir no negócio e por fim realizamos uma reestruturação no layout do estoque da empresa.
+
+##Tecnológias Específicas/Apoio
+
+* Trello
+* Excel
+* Canvas
+* Teams
+* Power Bi
+* ShareX
 
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
