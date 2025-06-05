@@ -16,6 +16,15 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 06/12/2022 | Em Progresso |[Pendente]() | 
 
 # Equipe
+| Nome |  
+|-|
+| Bruno Pimenta |
+| Daniella Araujo |
+| Kauan Lucas |
+| Maria Eduarda |
+
+**ORIENTADOR:** PROFESSOR MESTRE CARLOS EDUARDO BASTOS 
+**COORIENTADOR:** PROFESSOR ESPECIALISTA RUBENS BARRETO DA SILVA
 
 # Objetivo do Projeto
 
@@ -23,12 +32,12 @@ Sprint | Previsão | Status| Histórico|
 
 # Tecnologias Utilizadas
 
-#Autores
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Bruno Pimenta | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Kauan Lucas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Bruno Pimenta | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Kauan Lucas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Daniella Araujo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+
 
