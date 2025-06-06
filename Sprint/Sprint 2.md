@@ -11,6 +11,8 @@ O relatório completo desta etapa pode ser acessado no link abaixo:
 
 A principal entrega desta fase foi a evolução da nossa planilha, que agora conta com 5 novas abas totalmente integradas. Construímos um sistema dinâmico onde 99% dos dados estão vinculados, ou seja, qualquer alteração em um parâmetro ajusta o modelo como um todo, garantindo consistência e agilidade na análise de cenários.
 
+Em nosso novo cenário, o market share foi atualizado para 20%
+
 <details>
 <summary>Visualizar a estrutura das novas abas</summary>
 
