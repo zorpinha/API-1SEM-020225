@@ -1,63 +1,92 @@
-# Aprendizado por Projeto Integrado (API)
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+# Aprendizado por Projeto Integrado (API) - 1º Semestre
 
-# Índice
+> Projeto de consultoria para a implantação de uma rede de telefonia móvel, desenvolvido com a metodologia ágil SCRUM para fortalecer a Proatividade, Autonomia, Colaboração e Entrega de Resultados.
 
+---
 
-# Projeto (API) 
-Este semestre estamos prestando consultoria a um parque de diversões que precisa otimizar seus processos para aumentar o numero de visitantes no parque.
+## 📝 Índice
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 14/03/2025 | concluido | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/faf186d2511302122f33f62447273f4ef078ac6f/Sprint/Kick%20Off) | 
-|01 | 01/04/2025 | concluido | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/7a8f84994979a486969e3d774c275566fa8894b5/Sprint/Sprint%201) | 
-|02|  22/04/2025| concluido |[Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) | 
-|03| 27/05/2025 | concluido |[Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) | 
-|Feira de Soluções| 06/12/2022 | Em Progresso |[Pendente]() | 
+- [🎯 Sobre o Projeto](#-sobre-o-projeto)
+- [🚀 Status das Sprints](#-status-das-sprints)
+- [👥 Equipe e Orientadores](#-equipe-e-orientadores)
+- [Sprint Showcase](#sprint-showcase)
+- [🛠️ Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
+- [✍️ Autores](#️-autores)
 
-# Equipe
-| Nome |  
-|-|
-| Bruno Pimenta |
-| Daniella Araujo |
-| Kauan Lucas |
-| Maria Eduarda |
+---
 
-**ORIENTADOR:** PROFESSOR MESTRE CARLOS EDUARDO BASTOS  
-**COORIENTADOR:** PROFESSOR ESPECIALISTA RUBENS BARRETO DA SILVA
+## 🎯 Sobre o Projeto
 
-# Objetivo do Projeto sprint
+Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia em um país.
 
-Foi realizada a privatização do serviço de telefonia de um determinado país. 
-As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões. 
-Cada empresa de telefonia móvel será responsável pela instalação da infraestrutura de serviços e comercialização de celulares.
+Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a estratégia de comercialização de celulares na região designada, garantindo a viabilidade e o sucesso da operação.
 
-# Funcionalidades e Demonstrações das Sprints
-Para melhor visualização, separamos cada sprint desse projeto em páginas diferentes, assim explicando cada processo detalhadamente.
+---
 
-[Sprint 1](https://github.com/zorpinha/API-1SEM-020225/blob/7a8f84994979a486969e3d774c275566fa8894b5/Sprint/Sprint%201) Foi uma das etapas mais importantes que é de pesquisa sobre o mercado, clicando sobre o "sprint 1" está explicado cada etapa.  
-[Sprint 2](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) Recebemos novos dados onde tivemos a oportunidade de refinar e trabalhar com esses dados em um cenário hipotético perfeito.  
-[Sprint 3](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) Após termos todos esses dados, foi solicitado que colocassemos esses dados no Power BI, para isso foi necessário que transformassemos todos os dados em uma forma de saída e entrada para que o fosse trabalho no Power BI.  
+## 🚀 Status das Sprints
 
-# Tecnologias Utilizadas
+Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
-Inicialmente foi pedido um SWOT para ajudar na analise da empresa, em seguida realizamos um Canvas para verificar a estrutura da empresa e descobrir pontos a melhorar, assim foi realizado uma previsão de visitantes para que a empresa veja se valhe ou não a pena investir no negócio e por fim realizamos uma reestruturação no layout do estoque da empresa.
+| Sprint | Previsão | Status | Histórico |
+| :--- | :---: | :---: | :---: |
+| Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/faf186d2511302122f33f62447273f4ef078ac6f/Sprint/Kick%20Off) |
+| Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md) |
+| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) |
+| Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) |
+| Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
+---
 
-##Tecnológias Específicas/Apoio
+## 👥 Equipe e Orientadores
 
-* Trello
-* Excel
-* Canvas
-* Teams
-* Power Bi
-* ShareX
+### Equipe de Desenvolvimento
+- **Bruno Pimenta** - *Scrum Master*
+- **Daniella Araujo** - *Team Member*
+- **Kauan Lucas** - *Team Member*
+- **Maria Eduarda** - *Product Owner*
 
-# Autores
-| Função | Nome |  LinkedIn & GitHub |
-| - | - | - |
-|Scrum Master| Bruno Pimenta | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Kauan Lucas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Daniella Araujo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Product Owner| Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+### Orientação
+- **Orientador:** Professor Mestre Carlos Eduardo Bastos
+- **Coorientador:** Professor Especialista Rubens Barreto da Silva
 
+---
 
+## Sprint Showcase
+
+Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
+
+- **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md)**
+  - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
+
+- **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202)**
+  - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
+
+- **[Sprint 3 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203)**
+  - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e gerenciamento de projeto.
+
+| Ferramenta | Utilização |
+| :--- | :--- |
+| **Trello** | Gerenciamento de tarefas e do backlog da Sprint. |
+| **Excel** | Coleta, estruturação e análise inicial dos dados. |
+| **Canvas** | Modelagem de negócios e estruturação da proposta de valor. |
+| **Power BI** | Criação de dashboards e visualização de dados. |
+| **Microsoft Teams**| Comunicação e colaboração da equipe. |
+| **ShareX** | Captura e compartilhamento de tela. |
+
+---
+
+## ✍️ Autores
+
+Conecte-se com a nossa equipe!
+
+| Função | Nome | Contato |
+| :--- | :--- | :--- |
+| **Scrum Master** | Bruno Pimenta | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/zorpinha) |
+| **Team Member** | Kauan Lucas | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Team Member** | Daniella Araujo| [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Product Owner**| Maria Eduarda | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
