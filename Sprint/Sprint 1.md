@@ -105,6 +105,7 @@ Com base na alta concorrência do setor e nos dados preliminares, definimos uma 
 <details>
 <summary>Visualizar planilha do Market Share</summary>
 
-![image](https://github.com/user-attachments/assets/a2dfda4c-ac83-41d1-b854-9e3502436a91)
+![image](https://github.com/user-attachments/assets/48e9eec0-1cb0-4f08-ba2f-519a810e3c86)
+
 
 </details>
