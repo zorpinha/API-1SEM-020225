@@ -1,4 +1,4 @@
-# Análise de Mercado para o Setor de Smartphones no Brasil
+# Sprint 1: Análise de Mercado para o Setor de Smartphones no Brasil
 
 Este repositório documenta a pesquisa e a análise de dados realizadas para o Projeto Integrador I (2025.1). O objetivo foi coletar e estruturar informações estratégicas sobre o mercado de smartphones no Brasil, utilizando fontes confiáveis para embasar a tomada de decisão.
 
