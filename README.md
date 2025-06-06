@@ -31,7 +31,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | :--- | :---: | :---: | :---: |
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/97a7bf93cda26d6224adb813f1160c1631a885a0/Sprint/Sprint%201.md) |
-| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) |
+| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/a7b6ceb626bfe1592cb291dcfcf2f65c701a54d0/Sprint/Sprint%202.md) |
 | Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) |
 | Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
 ---
@@ -54,13 +54,13 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
 
-- **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md)**
+- **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/97a7bf93cda26d6224adb813f1160c1631a885a0/Sprint/Sprint%201.md)**
   - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
 
-- **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202)**
+- **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/a7b6ceb626bfe1592cb291dcfcf2f65c701a54d0/Sprint/Sprint%202.md)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
 
-- **[Sprint 3 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203)**
+- **[Sprint 3 →]()**
   - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
 
 ---
