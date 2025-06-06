@@ -29,7 +29,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 | Sprint | Previsão | Status | Histórico |
 | :--- | :---: | :---: | :---: |
-| Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/faf186d2511302122f33f62447273f4ef078ac6f/Sprint/Kick%20Off) |
+| Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md) |
 | Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) |
 | Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) |
