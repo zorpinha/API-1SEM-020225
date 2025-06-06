@@ -1,44 +1,110 @@
-#Pesquisa inicial
+# Análise de Mercado para o Setor de Smartphones no Brasil
 
-inicialmente recebemos a seguinte pesquisa [Pesquisa inicial,xlxs](https://github.com/user-attachments/files/20619432/Pesquisa.Inicial.-.Proj.Integr.I.2025.1.xlsx)  
+Este repositório documenta a pesquisa e a análise de dados realizadas para o Projeto Integrador I (2025.1). O objetivo foi coletar e estruturar informações estratégicas sobre o mercado de smartphones no Brasil, utilizando fontes confiáveis para embasar a tomada de decisão.
 
-Nosso Objetivo foi realizar o preenchimento de todos esses Dados com informações confiavéis e seguras.
+A pesquisa original pode ser acessada aqui: [Pesquisa Inicial.xlsx](https://github.com/user-attachments/files/20619432/Pesquisa.Inicial.-.Proj.Integr.I.2025.1.xlsx).
 
+## Sumário
+1.  [Demanda Nacional](#1-demanda-nacional)
+2.  [Pesquisa de Preços e Modelos de Referência](#2-pesquisa-de-preços-e-modelos-de-referência)
+3.  [Demografia e Dados Socioeconômicos](#3-demografia-e-dados-socioeconômicos)
+4.  [Análise de Sazonalidade](#4-análise-de-sazonalidade)
+5.  [Definição do Market Share Inicial](#5-definição-do-market-share-inicial)
 
-## 1° Dado - Demanda Nacional
+---
+
+## 1. Demanda Nacional
+
+Para estimar a demanda nacional, cruzamos dados de projeção populacional com pesquisas sobre a intenção de compra dos consumidores para o ano de 2025.
+
+<details>
+<summary>Visualizar planilha da Demanda Nacional</summary>
 
 ![image](https://github.com/user-attachments/assets/f12785cd-53de-4de8-a138-26917a6ae0d1)
 
-Para realizarmos essa pesquisa Encontramos duas Fontes:  
-[população Brasileira](https://pt.tradingeconomics.com/brazil/population#:~:text=A%20população%20no%20Brasil%20deverá,e%20as%20expectativas%20dos%20analistas.)  
-[Tendência de compras](https://www.meioemensagem.com.br/marketing/moveis-e-celulares-o-que-os-brasileiros-desejam-comprar-em-2025#:~:text=Segundo%20o%20estudo%2C%2063%25%20dos,na%20pesquisa%20planejam%20comprar%20móveis.)  
+</details>
 
+**Fontes:**
+* **Projeção Populacional:** [Trading Economics - População Brasileira](https://pt.tradingeconomics.com/brazil/population)
+* **Intenção de Compra:** [Meio & Mensagem - Tendências 2025](https://www.meioemensagem.com.br/marketing/moveis-e-celulares-o-que-os-brasileiros-desejam-comprar-em-2025)
 
+---
 
-## Pesquisa de Preços
+## 2. Pesquisa de Preços e Modelos de Referência
 
-Nessa etapa seria necessário que escolhessemos 4 modelos de smartfones em específico, sendo eles:
-*O Importado mais caro;  
-*O Nacional mais caro;  
-*O Importado mais barato;    
-*O Nacional mais barato.  
+Nesta etapa, selecionamos quatro modelos de smartphones para servirem como referência de precificação, cobrindo diferentes segmentos do mercado:
+
+* **Importado Mais Caro**
+* **Nacional Mais Caro**
+* **Importado Mais Barato**
+* **Nacional Mais Barato**
+
+Adicionalmente, incorporamos dados de participação de mercado das principais marcas atuantes no Brasil para enriquecer a análise competitiva.
+
+<details>
+<summary>Visualizar planilha de Preços e Market Share</summary>
 
 ![image](https://github.com/user-attachments/assets/bd7d1cfa-af4c-448c-b8ea-62a51087987f)
 
-Além da seleção dos smartphones, achamos uma pesquisa na qual comentou sobre a % do marketshare e adicionamos .
-*[Tudocelular](https://www.tudocelular.com/mercado/noticias/n223295/samsung-maior-marca-brasil-motorola-supera-apple.html)
+</details>
 
-## Demografia e dados Sócio-Econômicos
+**Fonte (Market Share):**
+* [TudoCelular - Samsung lidera no Brasil](https://www.tudocelular.com/mercado/noticias/n223295/samsung-maior-marca-brasil-motorola-supera-apple.html)
 
-Em sazonalidade foi passado para buscarmos a quantos porcento a população está separada por regiões.  
+---
 
+## 3. Demografia e Dados Socioeconômicos
 
+Analisamos a distribuição populacional por região do Brasil e o perfil de consumo por classe social.
 
-Ao relizarmos a pesquisa, resolvemos mudar um pouco a metodologia de calculo, ao invés de numeros fizemos, optamos por deixar que a demografia seja calculad atravéz da % populacional, assim caso precisassemos efetuar qualquer alteração, o sistema realizaria esse novo calculo automaticamente, tornando um sistema mais eficiênte
+> **💡 Melhoria na Metodologia:** Em vez de usar números absolutos, optamos por uma abordagem baseada em percentuais populacionais. Isso torna a planilha dinâmica e autoajustável a futuras alterações nos dados de projeção, garantindo um sistema mais eficiente e escalável.
 
+<details>
+<summary>Visualizar planilha de Demografia</summary>
 
 ![image](https://github.com/user-attachments/assets/35fbff3d-fc4f-4af3-b74c-bfac20299c52)
 
-fontes:  
-[ibge](https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2024/POP2024_20241230.pdf)  
-[globo](https://gente.globo.com/infografico-pesquisa-panorama-das-classes-abcde/)  
+</details>
+
+**Fontes:**
+* **Estimativa Populacional:** [IBGE - Estimativas da População (2024)](https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2024/POP2024_20241230.pdf)
+* **Classes Sociais:** [Globo - Panorama das Classes ABCDE](https://gente.globo.com/infografico-pesquisa-panorama-das-classes-abcde/)
+
+---
+
+## 4. Análise de Sazonalidade
+
+Mapeamos a flutuação de vendas no setor de varejo ao longo do ano para identificar os períodos de maior e menor atividade comercial.
+
+<details>
+<summary>Visualizar planilha de Sazonalidade</summary>
+
+![image](https://github.com/user-attachments/assets/48c79357-621b-4205-a534-8a7b0a5db1aa)
+
+</details>
+
+### Expansão da Análise
+Para obter uma visão mais aprofundada, cruzamos os dados de sazonalidade com a distribuição das classes sociais (ABCDE). O resultado é um modelo de previsão que estima o potencial de vendas combinando esses dois importantes parâmetros.
+
+<details>
+<summary>Visualizar previsão de vendas (Sazonalidade x Classes)</summary>
+
+![image](https://github.com/user-attachments/assets/094e2d6f-1fac-4114-a425-23e7be955ac9)
+
+</details>
+
+**Fonte (Sazonalidade):**
+* [IBGE - Pesquisa Mensal de Comércio](https://www.ibge.gov.br/estatisticas/economicas/comercio/9227-pesquisa-mensal-de-comercio.html)
+
+---
+
+## 5. Definição do Market Share Inicial
+
+Com base na alta concorrência do setor e nos dados preliminares, definimos uma meta de **market share inicial de 8%**. Este é um valor conservador e realista, que servirá como ponto de partida para o planejamento estratégico.
+
+<details>
+<summary>Visualizar planilha do Market Share</summary>
+
+![image](https://github.com/user-attachments/assets/a2dfda4c-ac83-41d1-b854-9e3502436a91)
+
+</details>
