@@ -127,13 +127,52 @@ Aqui juntamos os dados como se fosse um fluxo em uma única planilha para poderm
 
 havia muitos no qual estavam deixando incognitas no trabalho, mas após a inspenção e criação de uma nova planilha do zero, conseguimos corriguir grande porcentagem desses erros
 
+--- 
+
 ## Power Bi
 
+Após toda finalização no excel e a construção da database financeira pudemos criar realizar a criação das telas
 
+![image](https://github.com/user-attachments/assets/afcaf95a-dd68-40ad-945f-bc3b8276c3d4)
 
+### Armazem 
 
+Aqui podemos relacionar quanto gastamos ao total do ano por região além de quanto cada região precisou armazenar
 
+![image](https://github.com/user-attachments/assets/b4e8d83d-9573-467f-a73e-50f07e0def15)
 
+### Compra de lotes 
+Podemos relacionar a compra de lotes por mês e quantos lotes de cada região por data usando os filtros
+
+![image](https://github.com/user-attachments/assets/8956fe14-cb6f-427e-85de-0580eaa7db11)
+
+### Contratação equipe 
+Podemos acompanhar a variação dos funcionarios ao decorrer do ano
+![image](https://github.com/user-attachments/assets/110f0a59-3260-4063-8390-709fe18b485f)
+
+### Treinamento equipe
+Podemos acompanhar a variação de treinamento com a entrada de novos funcionarios
+![image](https://github.com/user-attachments/assets/89b7953a-ebe5-4d73-81b0-828d838a0de7)
+
+### salario equipe
+De acordo com a variação de funcionarios os grafícos também varia
+![image](https://github.com/user-attachments/assets/7a98ef9b-f6cc-4f01-940c-aa5c37f7429e)
+
+### infraestrutura
+
+Aqui podemos acompanhar como estamos em questão de custos da construção de infraestruturas separadas por mês e região
+![image](https://github.com/user-attachments/assets/e5342ec4-2d9d-47e1-8aa8-b0aeb6653932)
+
+### plano de internet
+
+Aqui podemos acompanhar novas vendas de planos de internet por celulares, região e mensal
+![image](https://github.com/user-attachments/assets/a8b179ff-0fdf-4337-acab-2c5dfb6d826f)
+
+### Venda de celulares
+
+Aqui podemos acopanhar como foi nessas vendas de celulares mensais
+
+![image](https://github.com/user-attachments/assets/3dbe34da-0a96-4f04-9105-803f713704ff)
 
 
 
