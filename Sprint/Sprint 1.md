@@ -18,14 +18,27 @@ Para realizarmos essa pesquisa Encontramos duas Fontes:
 ## Pesquisa de Preços
 
 Nessa etapa seria necessário que escolhessemos 4 modelos de smartfones em específico, sendo eles:
-*O Importado mais caro  
-*O Nacional mais caro  
-*O Importado mais barato  
-*O Nacional mais barato  
+*O Importado mais caro;  
+*O Nacional mais caro;  
+*O Importado mais barato;    
+*O Nacional mais barato.  
 
 ![image](https://github.com/user-attachments/assets/bd7d1cfa-af4c-448c-b8ea-62a51087987f)
 
-Além da seleção dos smartphones, achamos uma pesquisa na qual comentou sobre a % do marketshare e adicionamos 
+Além da seleção dos smartphones, achamos uma pesquisa na qual comentou sobre a % do marketshare e adicionamos .
 *[Tudocelular](https://www.tudocelular.com/mercado/noticias/n223295/samsung-maior-marca-brasil-motorola-supera-apple.html)
 
-##sazonalidade
+## Demografia e dados Sócio-Econômicos
+
+Em sazonalidade foi passado para buscarmos a quantos porcento a população está separada por regiões.  
+
+fontes:  
+[ibge](https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2024/POP2024_20241230.pdf)  
+[globo](https://gente.globo.com/infografico-pesquisa-panorama-das-classes-abcde/)  
+
+Ao relizarmos a pesquisa, resolvemos mudar um pouco a metodologia de calculo, ao invés de numeros fizemos, optamos por deixar que a demografia seja calculad atravéz da % populacional, assim caso precisassemos efetuar qualquer alteração, o sistema realizaria esse novo calculo automaticamente, tornando um sistema mais eficiênte
+
+
+![image](https://github.com/user-attachments/assets/35fbff3d-fc4f-4af3-b74c-bfac20299c52)
+
+
