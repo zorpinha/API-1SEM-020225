@@ -30,10 +30,10 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | Sprint | Previsão | Status | Histórico |
 | :--- | :---: | :---: | :---: |
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
-| Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/97a7bf93cda26d6224adb813f1160c1631a885a0/Sprint/Sprint%201.md) |
-| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/a7b6ceb626bfe1592cb291dcfcf2f65c701a54d0/Sprint/Sprint%202.md) |
-| Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/b65e04d7a9e07c6745494eea69c2875945d59cd0/Sprint/Sprint%203.md) |
-| Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
+| Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639142/SPRINT.1.pdf) |
+| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639145/SPRINT.2.pdf)|
+| Sprint 03 | 10/05/2025 | ✅ ⏳ Em Andamento | [Ver Relatório]() |
+| Feira de Soluções| 17/06/2025 | ⏳ Em Andamento | `Pendente` |
 ---
 
 ## 👥 Equipe e Orientadores
