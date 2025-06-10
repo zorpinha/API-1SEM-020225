@@ -27,7 +27,7 @@ Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a 
 
 Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
-| Sprint | Previsão | Status | Histórico |
+| Sprint | Previsão | Status | Apresentação |
 | :--- | :---: | :---: | :---: |
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639142/SPRINT.1.pdf) |
