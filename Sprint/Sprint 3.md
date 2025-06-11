@@ -1,4 +1,4 @@
-# Sprint 3: Reconstrução do Modelo de Dados e Dashboard Interativo
+![image](https://github.com/user-attachments/assets/5575b03d-39f9-4ae4-b5e3-5a1e6d9a9026)# Sprint 3: Reconstrução do Modelo de Dados e Dashboard Interativo
 
 > Apesar de imprevistos que adiaram a data de entrega, a Sprint 3 marcou a reconstrução completa do nosso modelo financeiro, resultando em uma base de dados mais robusta e detalhada, e a entrega do dashboard em Power BI para análise visual.
 
@@ -57,8 +57,7 @@ As principais alterações foram agrupadas nas seguintes categorias:
   ![image](https://github.com/user-attachments/assets/360e04da-b829-43a8-aaf4-c222fe51a9d9)
 
 - **3. Custo de Infraestrutura Detalhado:** A qualidade da infraestrutura (ERBs e PAs) agora é um parâmetro selecionável, e os custos são calculados em abas separadas por região para melhor visualização.  
-  ![image](https://github.com/user-attachments/assets/1ba0609f-3208-422e-b371-53d2748974e7)  
-  ![image](https://github.com/user-attachments/assets/90242996-1b12-4767-a37d-c827524d55b2)
+![image](https://github.com/user-attachments/assets/7b529622-7148-48e1-a44a-2e4d50146c0d)
 
 - **4. Abas Dedicadas para Custos:** Criamos abas específicas para "Custo de Equipe" (incluindo contratações/demissões) e "Custo de Infraestrutura", facilitando a análise detalhada.
   ![image](https://github.com/user-attachments/assets/d3292af0-aa41-45b3-978b-5da7af928214)
@@ -100,8 +99,9 @@ Abaixo estão algumas das telas de análise criadas:
 <details>
 <summary>Visualizar Dashboards de Vendas</summary>
 
-![image](https://github.com/user-attachments/assets/3dbe34da-0a96-4f04-9105-803f713704ff)
-![image](https://github.com/user-attachments/assets/a8b179ff-0fdf-4337-acab-2c5dfb6d826f)
+![image](https://github.com/user-attachments/assets/59da23b0-6335-4324-b660-f4d850209e69)
+![image](https://github.com/user-attachments/assets/b32680d3-7685-488b-b4ac-6bec651fedc3)
+
 </details>
 
 - **Análise de Operações:** Acompanhamento de compra de lotes e custos de armazenagem.
@@ -117,13 +117,16 @@ Abaixo estão algumas das telas de análise criadas:
 <summary>Visualizar Dashboards de RH</summary>
 
 ![image](https://github.com/user-attachments/assets/110f0a59-3260-4063-8390-709fe18b485f)
-![image](https://github.com/user-attachments/assets/89b7953a-ebe5-4d73-81b0-828d838a0de7)
-![image](https://github.com/user-attachments/assets/7a98ef9b-f6cc-4f01-940c-aa5c37f7429e)
+![image](https://github.com/user-attachments/assets/83601e18-80e3-4fd1-b241-562d905811d2)
+![image](https://github.com/user-attachments/assets/9833662c-8ead-41fb-8658-c3ffd250abbe)
+
+
+
 </details>
 
 - **Análise de Infraestrutura:** Acompanhamento dos custos de construção de ERBs e PAs por mês e região.
 <details>
 <summary>Visualizar Dashboard de Infraestrutura</summary>
 
-![image](https://github.com/user-attachments/assets/e5342ec4-2d9d-47e1-8aa8-b0aeb6653932)
+![image](https://github.com/user-attachments/assets/6b32a667-0d7d-4117-b9a0-2687a401f5ea)
 </details>
