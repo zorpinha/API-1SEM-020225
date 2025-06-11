@@ -32,7 +32,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639142/SPRINT.1.pdf) |
 | Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639145/SPRINT.2.pdf)|
-| Sprint 03 | 10/05/2025 | ⏳ Em Andamento | `Pendente` |
+| Sprint 03 | 10/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20693010/Sprint.3.-.10.06.pptx) |
 | Feira de Soluções| 17/06/2025 | ⏳ Em Andamento | `Pendente` |
 ---
 
