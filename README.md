@@ -169,6 +169,39 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] monitorar os custos de construção de ERBs e PAs
 - [x] Criar github
 
+# Competências desenvolvidas
+
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| Trello | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Powerpoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Sketchup | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+
+
 ---
 
 
