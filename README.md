@@ -15,13 +15,6 @@
 
 ---
 
-## Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN"/>
-</p>
-
----
-
 ## 🚀 Status das Sprints
 
 Acompanhe o progresso do nosso projeto através da tabela de Sprints.
@@ -46,6 +39,13 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 ### Orientação
 - **Orientador:** Professor Mestre Carlos Eduardo Bastos
 - **Coorientador:** Professor Especialista Rubens Barreto da Silva
+
+---
+
+## Micro Certificações
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN"/>
+</p>
 
 ---
 
