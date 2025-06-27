@@ -6,18 +6,18 @@
 
 ## 📝 Índice
 
-
 - [🚀 Status das Sprints](#-status-das-sprints)
 - [👥 Equipe e Orientadores](#-equipe-e-orientadores)
-- [🎯 Sobre o Projeto e Objetivo Do Projeto](#-sobre-o-projeto-e-objetivo-do-projeto)
-- [⚙️ Demonstração das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-- [🛠️ Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
+- [🎯 Sobre e Objetivos do Projeto](#-sobre-o-projeto-e-objetivo-do-projeto)
+- [⚙️ Demonstração das Sprints](#️-funcionalidades-e-demonstrações-das-sprints)
+- [🖼️ Artefatos do Projeto](#️-artefatos-do-projeto)
 - [✍️ Autores](#️-autores)
 
+---
 
-# Micro Certificações
+## Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN"/>
 </p>
 
 ---
@@ -33,7 +33,6 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20639145/SPRINT.2.pdf)|
 | Sprint 03 | 10/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20794901/wave.link.feira.de.solucoes.pptx) |
 | Feira de Soluções| 17/06/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20794901/wave.link.feira.de.solucoes.pptx) |
-
 ---
 
 ## 👥 Equipe e Orientadores
@@ -57,12 +56,12 @@ Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a 
 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 
-* Criação da identidade da empresa;  
-* Análise das atividades 1 e 2;  
-* Desenvolver o planejamento estratégico  
-* Realizar uma análise SWOT;  
-* Realizar um modelo de negócios com CANVAS;  
-* Realizar um plano de negócios;  
+* Criação da identidade da empresa;
+* Análise das atividades 1 e 2;
+* Desenvolver o planejamento estratégico
+* Realizar uma análise SWOT;
+* Realizar um modelo de negócios com CANVAS;
+* Realizar um plano de negócios;
 
 ---
 
@@ -72,16 +71,34 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 
 - **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/97a7bf93cda26d6224adb813f1160c1631a885a0/Sprint/Sprint%201.md)**
-  - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
+  - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
+  
+<details>
+<summary> veja a imagem</summary>
+ 
 ![image](https://github.com/user-attachments/assets/58007553-1ba1-4824-9030-5bd09f83a3ea)
 
+</details>
+
 - **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/a7b6ceb626bfe1592cb291dcfcf2f65c701a54d0/Sprint/Sprint%202.md)**
-  - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
+  - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
+  
+ <details>
+<summary> veja a imagem</summary>
+  
 ![image](https://github.com/user-attachments/assets/ba43b115-5b79-4db4-ba6e-dcc2f0764a86)
 
+</details>
+
 - **[Sprint 3 →](https://github.com/zorpinha/API-1SEM-020225/blob/b65e04d7a9e07c6745494eea69c2875945d59cd0/Sprint/Sprint%203.md)**
-  - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
+  - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
+
+<details>
+<summary> veja a imagem</summary> 
+
 ![image](https://github.com/user-attachments/assets/1d5bbf67-92ca-4173-84e7-e69f69bac925)
+
+</details>
 
 ---
 
@@ -103,25 +120,29 @@ Ao final, como o mapa demonstra, o projeto não entregou apenas produtos técnic
 
 ---
 
-# Cronograma das Sprints
+## 🖼️ Artefatos do Projeto
 
-## Cronograma
+### Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/zorpinha/projects/12/views/1)
+#### [Cronograma das Sprints (clique aqui)](https://github.com/users/zorpinha/projects/12/views/1)
+
+---
+
+### Backlog do produto
+
+<img src="https://github.com/user-attachments/assets/d9bb961b-f70f-47cd-936c-87f9f98e97ab" width="70%"/>
 
 
-## Backlog do produto
-
-![image](https://github.com/user-attachments/assets/d9bb961b-f70f-47cd-936c-87f9f98e97ab) width="70%"/>
-
-
-## Burndown
+### Burndown
 
 ![image](https://github.com/user-attachments/assets/87c09462-07fc-435a-a77b-68964465a949)
 
+---
 
-## Sprint 1
+## Checklists de Entrega das Sprints
+
+### Sprint 1
 - [x] Kickoff
 - [x] Analise swot
 - [x] Apresentação
@@ -129,7 +150,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Populacional e a intenção de compra
 - [x] Modelos de smartphones concorrentes
 
-## Sprint 2
+### Sprint 2
 - [x] Estudo do novo banco de dados
 - [x] Nova planilha de dados
 - [x] Projetar as vendas mensais por região e modelo de celular
@@ -138,16 +159,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] criar fórmulas de validação
 - [x] dimensionar a infraestrutura necessária
 - [x] reconstruir a planilha após a corrupção de dados
-- [x] estimar a quantidade de equipes de campo e vendas   
-      
-## Sprint 3
+- [x] estimar a quantidade de equipes de campo e vendas
+
+### Sprint 3
 - [x] visualizar as vendas de celulares e planos por mês e região
 - [x] consolidar todos os dados em uma única aba "DataBase"
 - [x] acompanhar a compra de lotes e os custos de armazenagem
 - [x] analisar a variação de contratações, salários e treinamentos
 - [x] monitorar os custos de construção de ERBs e PAs
-- [x] Criar github 
-      
+- [x] Criar github
+
 ---
 
 
@@ -161,3 +182,4 @@ Conecte-se com a nossa equipe!
 | **Team Member** | Kauan Lucas | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
 | **Team Member** | Daniella Araujo| [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
 | **Product Owner**| Maria Eduarda | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+```
