@@ -72,21 +72,19 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 - **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/97a7bf93cda26d6224adb813f1160c1631a885a0/Sprint/Sprint%201.md)**
   - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
-  
 <details>
-<summary> veja a imagem</summary>
- 
-![image](https://github.com/user-attachments/assets/58007553-1ba1-4824-9030-5bd09f83a3ea)
-
+<summary> veja a imagem </summary>
+  
+![image](https://github.com/user-attachments/assets/19f19e4d-87b3-4019-a4c8-1325d04cd771)
 </details>
 
 - **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/a7b6ceb626bfe1592cb291dcfcf2f65c701a54d0/Sprint/Sprint%202.md)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
-  
- <details>
-<summary> veja a imagem</summary>
-  
-![image](https://github.com/user-attachments/assets/ba43b115-5b79-4db4-ba6e-dcc2f0764a86)
+
+<details>
+<summary> veja a imagem </summary>
+
+![image](https://github.com/user-attachments/assets/029ba994-7fb0-4406-8f26-b03d3289509d)
 
 </details>
 
@@ -94,7 +92,7 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
   - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
 
 <details>
-<summary> veja a imagem</summary> 
+<summary> veja a imagem </summary> 
 
 ![image](https://github.com/user-attachments/assets/1d5bbf67-92ca-4173-84e7-e69f69bac925)
 
