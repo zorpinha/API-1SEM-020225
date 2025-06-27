@@ -201,6 +201,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
+</details>
 
 ---
 
